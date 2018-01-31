@@ -1,0 +1,11 @@
+{
+  "name": "mini-programs-kit",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 7.x <= 9.x",
+    "yarn": ">=0.27.5 || >=1.0.0-20170811"
+  },
+  "devDependencies": {
+    "lerna": "^2.8.0"
+  }
+}

@@ -1,0 +1,4 @@
+<view class="container">
+  <image src="./assets/demo_png.png" background-size="cover"></image>
+  <text class="user-motto">{{motto}}</text>
+</view>
