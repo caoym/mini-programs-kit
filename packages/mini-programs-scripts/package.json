@@ -1,7 +1,7 @@
 {
   "name": "mini-programs-scripts",
   "bin": "./bin/mini-programs-scripts.js",
-  "version": "1.0.0-2",
+  "version": "1.0.0-y.0",
   "main": "index.js",
   "author": "leiming <poetcoder@outlook.com>",
   "license": "MIT",
