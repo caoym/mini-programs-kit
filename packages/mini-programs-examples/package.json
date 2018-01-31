@@ -1,6 +1,6 @@
 {
   "name": "mini-programs-examples",
-  "version": "1.0.0-y.0",
+  "version": "1.0.0-alpha.0",
   "main": "index.js",
   "author": "leiming <poetcoder@outlook.com>",
   "license": "MIT",
@@ -13,6 +13,6 @@
     "eslint-plugin-import": "^2.8.0"
   },
   "dependencies": {
-    "mini-programs-scripts": "^1.0.0-y.0"
+    "mini-programs-scripts": "^1.0.0-alpha.0"
   }
 }
